@@ -1,6 +1,7 @@
 # CSPSTiff
-Python tools to easily write layered tiff files in a format compatible with Adobe Photoshop
-based on psdtags
+Python tools to easily write layered tiff files in a format compatible with Adobe Photoshop.
+
+based on psdtags.
 
 ```
 from cspstiff import CSPSTiff
